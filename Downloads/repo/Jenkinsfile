@@ -3,8 +3,8 @@ pipeline {
 
     stages {
         stage('Clone Repository') {
-            steps {
-                git 'https://github.com/ericananales/test.git'  // Make sure to replace this with the actual repo URL
+            steps {https://github.com/ericananales/test.git
+                git ''  // Make sure to replace this with the actual repo URL
             }
         }
 

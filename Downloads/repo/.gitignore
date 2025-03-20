@@ -1,3 +1,4 @@
+# Inside .gitignore
 Application Data/
 Cookies/
 Local Settings/
@@ -8,16 +9,3 @@ Recent/
 SendTo/
 Start Menu/
 Templates/
-.bash_history
-.gitconfig
-.vscode/
-.ssh/
-.docker/
-.dotnet/
-.android/
-.arduinoIDE/
-.idlerc/
-.jupyter/
-.matplotlib/
-.ipython/
-
