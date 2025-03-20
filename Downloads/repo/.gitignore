@@ -1,0 +1,23 @@
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+.bash_history
+.gitconfig
+.vscode/
+.ssh/
+.docker/
+.dotnet/
+.android/
+.arduinoIDE/
+.idlerc/
+.jupyter/
+.matplotlib/
+.ipython/
+
